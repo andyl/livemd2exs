@@ -32,7 +32,7 @@ defmodule Livemd2exs.MixProject do
   defp deps do
     [
       {:earmark, "~> 1.4"},
-      {:git_ops, "~> 2.6", only: [:dev]},
+      {:git_ops, "~> 2.6", only: [:dev, :test]},
     ]
   end
 
