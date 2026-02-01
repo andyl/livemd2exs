@@ -67,7 +67,7 @@ Add `livemd2exs` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:livemd2exs, "~> 0.1.0"}
+    {:livemd2exs, github: "andyl/livemd2exs"}
   ]
 end
 ```

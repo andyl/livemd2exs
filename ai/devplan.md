@@ -37,22 +37,29 @@ Note:
 - [x] How to handle API keys?
 - [x] How to handle LLM keys?
 
-## Phase 4 - Production configuration
+## Phase 4 - GitOps 
+
+- [x] Add `git_ops` to manage Changelog and update Version
+
+## Phase 5 - GitHub 
 
 - [x] Setup a github repo (manual process)
-- [ ] Add `git_ops` to manage Changelog and update Version
-- [ ] Setup CI/CD on github:
-    - [ ] Add PR linting to only accept Conventional Commits 
-- [ ] Auto-push to hex.pm
-- [ ] Update script installation instructions for access via hex.pm
+- [x] Update script installation instructions for access via Github
 
-## Phase 5 - Add debug option 
+## Phase 6 - Add debug option 
 
 - [ ] Debug - automatically file a bug report if the conversion fails 
 
-## Phase 6 - Automate issue handling 
+## Phase 7 - Automate issue handling 
 
 - [ ] Setup a script to ingest errors
 - [ ] Automatically fix errors, update fixtures and tests 
 - [ ] Automatically issue PR
+
+## Phase 8 - CI/CD 
+
+- [ ] Setup CI/CD on github:
+    - [ ] Add PR linting to only accept Conventional Commits 
+- [ ] Auto-push to hex.pm
+- [ ] Update script installation instructions for access via hex.pm
 
