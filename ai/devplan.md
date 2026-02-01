@@ -46,7 +46,7 @@ Note:
 - [x] Setup a github repo (manual process)
 - [x] Update script installation instructions for access via Github
 
-## Phase 6 - Add debug option 
+## Phase 6 - Add an autoreport option
 
 - [ ] Debug - automatically file a bug report if the conversion fails 
 
