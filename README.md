@@ -48,7 +48,7 @@ File.write!("output.exs", script)
 Clone the repo and build the escript:
 
 ```bash
-git clone <repo-url> livemd2exs
+git clone https://github.com/andyl/livemd2exs
 cd livemd2exs
 mix deps.get
 mix escript.build
