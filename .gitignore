@@ -6,5 +6,5 @@
 erl_crash.dump
 *.ez
 livemd2exs-*.tar
-livemd2exs
+/livemd2exs
 

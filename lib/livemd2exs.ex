@@ -7,6 +7,11 @@ defmodule Livemd2exs do
   and source file path.
   """
 
+  @version "0.1.0"
+
+  @doc "Returns the current version of livemd2exs."
+  def version, do: @version
+
   @doc """
   Extracts Elixir code blocks from a Livebook file and returns an executable script string.
 

@@ -48,7 +48,12 @@ Note:
 
 ## Phase 6 - Add an autoreport option
 
-- [ ] Debug - automatically file a bug report if the conversion fails 
+- [x] Add `version/0` to `Livemd2exs` module
+- [x] Create `Livemd2exs.Config` module for reading `~/.config/livemd2exs/config.exs`
+- [x] Create `Livemd2exs.Autoreport` module for filing GitHub issues via `gh` CLI
+- [x] Update CLI with `--autoreport` flag, `OptionParser`, and `try/rescue`
+- [x] Add config and autoreport tests with fixtures
+- [x] Debug - automatically file a bug report if the conversion fails
 
 ## Phase 7 - Automate issue handling 
 
