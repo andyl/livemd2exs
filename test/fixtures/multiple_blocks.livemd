@@ -1,0 +1,14 @@
+# Multiple Blocks
+
+```elixir
+x = 1
+y = 2
+```
+
+```elixir
+sum = x + y
+```
+
+```elixir
+IO.puts("sum is #{sum}")
+```

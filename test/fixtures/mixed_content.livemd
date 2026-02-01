@@ -1,0 +1,24 @@
+# Mixed Content
+
+This is a text section explaining the code below.
+
+```elixir
+list = [1, 2, 3]
+```
+
+Here is some more explanatory text between code blocks.
+
+- bullet one
+- bullet two
+
+```elixir
+Enum.map(list, &(&1 * 2))
+```
+
+## Another Section
+
+Final paragraph of text.
+
+```elixir
+IO.puts("done")
+```

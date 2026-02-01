@@ -1,0 +1,11 @@
+/_build/
+/cover/
+/deps/
+/doc/
+/tmp/
+erl_crash.dump
+*.ez
+livemd2exs-*.tar
+# /.ai/
+# /ai/
+

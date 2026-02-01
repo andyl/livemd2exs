@@ -1,0 +1,11 @@
+# No Code Blocks
+
+This livebook contains only text content.
+
+## Section One
+
+Some explanatory text here.
+
+## Section Two
+
+More text with no code blocks at all.
